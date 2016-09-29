@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>topic</key>
+		<string>Topic</string>
+		<key>thumbnail</key>
+		<string>thumbnail_file_name</string>
+		<key>label</key>
+		<string>Label for Thumb</string>
+		<key>description</key>
+		<string>Lorem ipsum dolor sit amet, noluisse lucilius accommodare sea cu. Quod exerci ut sed, dico mutat soleat sed ne, vix no nisl mollis. Eum facete eruditi maiestatis ei. Cu duo fabulas admodum nostrum, pro eu porro intellegebat. His id aliquando incorrupte suscipiantur, has et aliquip suavitate.</string>
+		<key>descTitle</key>
+		<string>Title for the Description Text</string>
+		<key>video</key>
+		<string>video_file_name</string>
+	</dict>
+</dict>
+</plist>
