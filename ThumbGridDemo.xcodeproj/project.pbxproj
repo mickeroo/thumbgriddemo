@@ -16,7 +16,7 @@
 		27FC6B771D98B85100B7418F /* ContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27FC6B761D98B85100B7418F /* ContentViewController.swift */; };
 		27FC6B7A1D98C2DD00B7418F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27FC6B781D98C2DD00B7418F /* Main.storyboard */; };
 		27FC6B801D98D36D00B7418F /* Items.plist in Resources */ = {isa = PBXBuildFile; fileRef = 27FC6B7F1D98D36D00B7418F /* Items.plist */; };
-		87554DDE1D9CD926003A5088 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 87554DDD1D9CD926003A5088 /* README.md */; };
+		87554DDE1D9CD926003A5088 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 87554DDD1D9CD926003A5088 /* README.md */; };
 		87EEE0D91D9C537E00EBB6E2 /* AVKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87EEE0D81D9C537E00EBB6E2 /* AVKit.framework */; };
 		87EEE0DB1D9C538E00EBB6E2 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 87EEE0DA1D9C538E00EBB6E2 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
@@ -149,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87554DDE1D9CD926003A5088 /* README.md in Resources */,
 				27FC6B7A1D98C2DD00B7418F /* Main.storyboard in Resources */,
 				27FC6B4D1D9892CF00B7418F /* LaunchScreen.storyboard in Resources */,
 				27FC6B801D98D36D00B7418F /* Items.plist in Resources */,
@@ -163,7 +164,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				87554DDE1D9CD926003A5088 /* README.md in Sources */,
 				27FC6B711D98932B00B7418F /* ThumbGridViewController.swift in Sources */,
 				27FC6B431D9892CF00B7418F /* AppDelegate.swift in Sources */,
 				27FC6B731D98938D00B7418F /* ThumbGridCell.swift in Sources */,
